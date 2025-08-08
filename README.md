@@ -51,8 +51,8 @@ Always eager to explore new frameworks and tools to level up my skills.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmot15&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Rahmot15&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahmot15&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Rahmot15&theme=radical" height="165"/>
 </p>
 
 ---
