@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/1YBzL4RR/code-rahmot-1.png" alt="Rahmot15 Banner" width="100%" />
+  <img src="https://i.ibb.co/1YBzL4RR/code-rahmot-1.png" alt="Rahmot15 Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Rahmatullah</h1>
@@ -97,7 +97,7 @@ I enjoy turning ideas into production-ready products through clean architecture,
 
   <img 
     width="49%"
-    src="https://streak-stats.demolab.com?user=Rahmot15&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Rahmot15&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -108,7 +108,7 @@ I enjoy turning ideas into production-ready products through clean architecture,
 <p align="center">
   <img 
     width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmot15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahmot15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
   />
 </p>
 
@@ -122,8 +122,6 @@ I enjoy turning ideas into production-ready products through clean architecture,
     src="https://github-profile-trophy.vercel.app/?username=Rahmot15&theme=tokyonight&no-frame=true&row=1&column=6"
   />
 </p>
-```
-
 
 ---
 
@@ -150,11 +148,10 @@ const rahmot = {
   },
   currentFocus: "Building scalable full-stack applications",
 };
-````
+```
 
 ---
 
 <p align="center">
   ⭐ From <a href="https://github.com/Rahmot15">Rahmot15</a>
 </p>
-```
