@@ -2,21 +2,21 @@
 ![I am Rahmot15](https://i.ibb.co.com/1YBzL4RR/code-rahmot-1.png)
 
 <h1 align="center">Hi 👋, I'm Md Rahmatullah</h1>
-<h3 align="center">MERN Stack Web Developer | React.js • Node.js • Express • MongoDB</h3>
+<h3 align="center">Full-Stack JavaScript/TypeScript Developer | Next.js • React • Node.js • PostgreSQL</h3>
 
 ---
 
 ## 🚀 About Me
-I’m a passionate MERN Stack Web Developer who loves building responsive, user-friendly web applications.  
-I enjoy solving real-world problems through code and continuously learning modern technologies.  
-Always eager to explore new frameworks and tools to level up my skills.
+I’m a full-stack web developer focused on building modern, scalable, and user-focused applications.  
+I enjoy turning ideas into reliable products through clean architecture, strong UX, and maintainable code.  
+I continuously explore new technologies and best practices to deliver production-ready solutions.
 
 ---
 
 ## 📌 Current Activities
-- 🌱 I’m currently exploring **Next.js**  
-- 💻 I’m working on a **Tourism Website**  
-- 🔐 Learning **Authentication & Security Best Practices**  
+- 🌱 Deepening expertise in **Next.js, TypeScript, and backend architecture**  
+- 💻 Building and improving **full-stack web applications**  
+- 🔐 Practicing **authentication, security, and API design best practices**  
 
 ---
 
@@ -24,18 +24,40 @@ Always eager to explore new frameworks and tools to level up my skills.
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
 </p>
+- **Next.js**
+- **React.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **shadcn/ui**
+- **TanStack Query**
+- **Axios**
+- **Framer Motion**
 
 ### 🖥 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 </p>
+- **Node.js**
+- **Express.js**
+- **PostgreSQL**
+- **Prisma ORM**
+- **Better Auth**
+- **JWT Authentication**
+- **REST API**
+- **Zod**
 
 ### ⚙ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel" />
 </p>
+- **Git & GitHub**
+- **VS Code**
+- **Docker**
+- **Postman**
+- **Vercel**
+- **Notion**
 
 ---
 
